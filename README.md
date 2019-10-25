@@ -15,4 +15,4 @@ The CubeCell product is very good in that it has:
 
 This guide is design to assist with the issues that may arrise or information on actual experienced  in testing. It is recommended that the user fully follows the Heltec Software download and installing process, this seems to work for most people.
 
-You can comment or email to Simon At Securethings dot UK, I will try to respond but this is not a help service, and aimed at just providing a real user experience and inofrmation along with longer term Additiaonal Sensor Code.  
+You can comment or email to Simon At Securethings dot UK, I will try to respond but this is not a help service, and aimed at just providing a real user experience and information along with longer term Additiaonal Sensor Code.  
