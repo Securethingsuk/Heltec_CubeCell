@@ -1,5 +1,9 @@
 # Heltec_CubeCell
-Documents and Code for  use with Heltec CubeCell LoraWAN Node Boards, Capsule, and Modules
+Documents and Code for  use with Heltec CubeCell LoraWAN Node Boards, Capsule, and Modules. 
+
+These  documents are  was written, to provide some additional information based on experience using the above products.
+
+I am not associated with Heltec and provide this information as additional to that provided by them, to help the LoRaWAN community.
 
 The Heltec CubeCell product line is a good product but as is often the case the actual use, show differences to the design. In addition Docuemntation is not always as readable as needed.
 
