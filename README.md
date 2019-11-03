@@ -3,7 +3,7 @@ Documents and Code for  use with Heltec CubeCell LoraWAN Node Boards, Capsule, a
 
 The Heltec CubeCell product line is a good product but as is often the case the actual use, show differences to the design. In addition Docuemntation is not always as readable as needed.
 
-This  Repository will hold the current notes on the product  and as tested working Sensor test and LoRaWAN   code for other sensors no provided within the Heltec Example Code.
+This  Repository will hold the current notes on the product  and as tested, working sensor test and LoRaWAN  sketches for other sensors not provided within the Heltec Example Code. It should be noted that each sensor has its own .c/.h in the folder so that if you have files of the same name the correct library is used, even though this is wastefull in storage space it provides a controlled use of libraries.
 
 The CubeCell product is very good in that it has:
 •	Low standby power consumption,
